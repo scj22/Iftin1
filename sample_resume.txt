@@ -1,0 +1,31 @@
+Ahmed Hassan
+Email: ahmed@example.com
+Location: Mogadishu, Somalia
+
+Professional Summary
+Junior software developer with two years of experience building Python web applications
+and REST APIs. Comfortable working in Linux development environments.
+
+Skills
+Python, FastAPI, REST APIs, PostgreSQL, SQL, Git, Linux, Docker, JavaScript
+
+Experience
+Backend Developer Intern, Example Technology Company
+January 2024 - December 2024
+- Developed REST API endpoints using Python and FastAPI.
+- Created PostgreSQL tables and SQL queries.
+- Used Git for source control and code reviews.
+- Assisted with Docker-based local development.
+
+Projects
+Employee Management API
+- Built a FastAPI service for employee records and department management.
+- Used PostgreSQL for persistent storage.
+- Added request validation and API documentation.
+- Deployed the application on an Ubuntu server.
+
+Education
+Bachelor of Computer Science, Example University, 2023
+
+Additional Information
+Has not yet used pytest in a production project.
