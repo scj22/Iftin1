@@ -1,0 +1,14 @@
+{
+    "project": "Smart Road",
+    "city": "Mogadishu",
+    "region": "Banaadir",
+    "model": "Random Forest",
+    "target": "traffic_speed_kmh",
+    "feature_count": 22,
+    "training_samples": 26236,
+    "testing_samples": 6559,
+    "traffic_data_type": "prototype",
+    "weather_data_source": "Open-Meteo",
+    "google_maps_api": false,
+    "billing_required": false
+}

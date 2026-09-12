@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <defs>
+    <linearGradient id="road" x1="20" y1="38" x2="20" y2="4" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0084c9"/><stop offset="1" stop-color="#4189dd"/>
+    </linearGradient>
+    <linearGradient id="node" x1="8" y1="8" x2="32" y2="26" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fcd678"/><stop offset="1" stop-color="#f0a01a"/>
+    </linearGradient>
+  </defs>
+  <rect width="40" height="40" rx="11" fill="url(#road)"/>
+  <path d="M11.5 35.5 17.2 13.4M28.5 35.5 22.8 13.4" stroke="white" stroke-opacity=".92" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M20 34.2v-3.6M20 27.4v-3.4M20 20.9v-3.1" stroke="white" stroke-opacity=".75" stroke-width="1.9" stroke-linecap="round"/>
+  <circle cx="20" cy="10.2" r="5.1" fill="url(#node)"/>
+  <circle cx="20" cy="10.2" r="2.1" fill="#0b1220" fill-opacity=".82"/>
+</svg>
