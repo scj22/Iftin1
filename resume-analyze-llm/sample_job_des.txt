@@ -1,0 +1,22 @@
+Junior Python Backend Developer
+
+We are looking for a junior backend developer to help build and maintain web APIs.
+
+Required skills:
+- Python
+- FastAPI or Django
+- REST API development
+- SQL and PostgreSQL
+- Git
+- Basic Linux command-line experience
+
+Preferred skills:
+- Docker
+- Unit testing with pytest
+- Experience integrating AI or language-model APIs
+
+Education:
+A degree or diploma in computer science, software engineering, or a related area is preferred.
+
+Experience:
+At least one year of backend development experience or strong practical projects.
